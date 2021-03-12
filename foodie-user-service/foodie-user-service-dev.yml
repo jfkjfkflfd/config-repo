@@ -1,0 +1,11 @@
+#数据库连接串 & 密码
+mariadb:
+   uri: 'jdbc:mysql://47.106.72.37:3306/shop-shop-dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false&serverTimezone=UTC'
+   password: '12345'
+
+
+# 功能开关 - 开启/关闭注册功能
+
+
+# actuator
+
